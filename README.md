@@ -25,4 +25,4 @@
 
 <br/>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishibisen&show_icons=true&theme=default&hide_border=true)](https://github.com/tanishibisen)
+
