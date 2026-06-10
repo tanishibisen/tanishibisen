@@ -6,7 +6,7 @@
 - 🔭 Currently building **agentic data pipelines** for real-world defence & analytics use cases
 - 🌱 Working with **LangChain, LangGraph, RAG, Machine Learning models**
 - 💼 AI/ML Intern @ **DRDO** — naval threat detection system
-- 🤝 Looking to collaborate on **Machine Learning & Data Engineering projects **
+- 🤝 Looking to collaborate on **Machine Learning & Data Engineering projects**
 - 📫 Reach me at **tanishibisen01@gmail.com**
 - 🔗 [LinkedIn](https://linkedin.com/in/tanishibisen)
 
