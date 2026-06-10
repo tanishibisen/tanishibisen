@@ -7,6 +7,7 @@
 - 🌱 Working with **LangChain, LangGraph, RAG, Machine Learning models**
 - 💼 AI/ML Intern @ **DRDO** — naval threat detection system
 - 🤝 Looking to collaborate on **Machine Learning & Data Engineering projects**
+- 📄 Here's my work experience in boring Arial font 😄 [Resume](https://github.com/tanishibisen/tanishibisen/raw/main/Tanishi_Bisen_Resume(2).pdf)
 - 📫 Reach me at **tanishibisen01@gmail.com**
 - 🔗 [LinkedIn](https://linkedin.com/in/tanishibisen)
 
